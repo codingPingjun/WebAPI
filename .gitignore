@@ -4,4 +4,4 @@ __pycache__/
 *$py.class
 
 *.sqlite3
-*.[jpg|jpeg|png]
+*.jpg
